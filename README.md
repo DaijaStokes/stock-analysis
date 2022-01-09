@@ -14,4 +14,4 @@ My challenges faced in this screenshot were that I could properly display months
 
 # Results
 1. What can you conclude about the Outcomes based on Goals?
-  You can also see from the Line Chart of the Outcomes Based on Goals that most of the successful outcomes had a greater success rate of 60% or more until the goal range increased to $45,000 to $50,000.Also from this chart you see that no matter what the goal amount was none of the plays were ever canceled.
+       You can also see from the Line Chart of the Outcomes Based on Goals that most of the successful outcomes had a greater success rate of 60% or more until the goal range increased to $45,000 to $50,000.Also from this chart you see that no matter what the goal amount was none of the plays were ever canceled.
