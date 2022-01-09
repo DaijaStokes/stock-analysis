@@ -8,6 +8,6 @@ You can also see from the screenshot of the Outcomes Based on Goals that most of
 Also from the screenshot you see that no matter what the goal was non of the plays were ever canceled.
 
 
-This site was used for me to remind myself how to calculate the percentages of two columns.[Percentage of two columns]
-(https://www.quora.com/How-can-you-calculate-the-percentage-of-two-numbers-in-Excel)
+This site was used for me to remind myself how to calculate the percentages of two columns[Percentage of two columns]
+(https://www.quora.com/How-can-you-calculate-the-percentage-of-two-numbers-in-Excel).
 # Results
