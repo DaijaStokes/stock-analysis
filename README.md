@@ -13,5 +13,11 @@ This site was used for me to remind myself how to calculate the percentages of t
 My challenges faced in this screenshot were that I could properly display months in the rows. [This link](https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-c9d1ddd0-6580-47d1-82bc-c84a5a340725?ui=en-us&rs=en-us&ad=us) allowed me to group the data based off of the years and then scale down to the months.
 
 # Results
-1. What can you conclude about the Outcomes based on Goals?
+1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+   - The average of all of the theater outcomes highest succes month was in May with 111 successes. Also for all of the years there was never an data in October for canceled shows. 
+2. What can you conclude about the Outcomes based on Goals?
      - You can also see from the Line Chart of the Outcomes Based on Goals that most of the successful outcomes had a greater success rate of 60% or more until the goal range increased to $45,000 to $50,000.Also from this chart you see that no matter what the goal amount was none of the plays were ever canceled.
+3. What are some limitations of this dataset?
+    - One of the limitations of the data is the inconsistency in the October data for all the years in theater. Also for the plays outcomes there were no canceled plays in the dataset that met that criteria. The canceled columns could be eliminated since there is no need for the data. 
+4. What are some other possible tabes and/or graphs that we could create?
+    - The most popular category and/or subcategory based off of the successes in the outcome column. A graph of visualization the amount of successes and failures of the campaigns based on whether or not they were staff favorites. 
