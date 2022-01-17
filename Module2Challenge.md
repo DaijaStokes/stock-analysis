@@ -8,6 +8,8 @@ This inputbox then is used to analyze the stock analysis for the year entered, i
 You can see from this screenshot the amount of time that is took to run through this data and output this analysis. 
 <img width="270" alt="Screen Shot 2022-01-16 at 10 57 27 PM" src="https://user-images.githubusercontent.com/77857472/149706146-489b7d01-fa7c-4b8f-a45d-75f876c0ac4f.png">
 <img width="250" alt="Screen Shot 2022-01-16 at 10 57 42 PM" src="https://user-images.githubusercontent.com/77857472/149706159-6aaa9bd6-2aef-454d-8377-71a1345a6ee0.png">
+<img width="795" alt="Screen Shot 2022-01-16 at 11 14 20 PM" src="https://user-images.githubusercontent.com/77857472/149707163-cc1ceaa7-7d9a-448f-a602-17a6c657da10.png">
+
 In comparision this is the original performance execution time. You can see the refractored code runs faster.
 <img width="250" alt="Screen Shot 2022-01-16 at 11 02 28 PM" src="https://user-images.githubusercontent.com/77857472/149706296-c5d0f330-0428-46a6-8d62-332093c351fb.png">
 
